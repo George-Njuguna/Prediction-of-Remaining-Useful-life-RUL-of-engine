@@ -1,6 +1,6 @@
 
 # Predictive Maintenance – Remaining Useful Life (RUL) Prediction
-
+![alt text](image.jpg)
 ## Introduction
 
 This project applies machine learning to predict the **Remaining Useful Life (RUL)** of engines using the **NASA CMAPSS dataset**. Accurate RUL prediction is crucial for predictive maintenance, helping reduce downtime, improve safety, and optimize costs.
